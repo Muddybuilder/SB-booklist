@@ -1,1 +1,1 @@
-Learning Spring Boot with simple application
+Learning Spring Boot with simple application :)
